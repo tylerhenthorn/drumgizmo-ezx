@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<midimap>
+	<!-- Low-range duplicates (EZD extended zone, notes 1-6) -->
+	<map note="1" instr="Tom-RH"/>       <!-- [Racktom 1] Right -->
+	<map note="2" instr="Tom-RH"/>       <!-- [Racktom 2] Right -->
+	<map note="3" instr="Tom-RH"/>       <!-- [Racktom 3] Right -->
+	<map note="4" instr="Floor-RH"/>     <!-- [Floortom 1] Right -->
+	<map note="5" instr="Floor-RH"/>     <!-- [Floortom 2] Right -->
+	<map note="6" instr="snare-Dyn-RH"/> <!-- [Snare] Right -->
+
+	<!-- Hi-hat extended zone (notes 7-26) -->
+	<map note="7" instr="HH-closed"/>    <!-- [Hats] hatsTrig -->
+	<map note="8" instr="HH-closed"/>    <!-- [Hats] hatsTrig -->
+	<map note="9" instr="HH-closed"/>    <!-- [Hats] hatsTrig -->
+	<map note="10" instr="HH-pdl"/>      <!-- [Hats] Closed Pedal -->
+	<map note="11" instr="HH-closed"/>   <!-- [Hats] Closed -->
+	<map note="12" instr="HH-open"/>     <!-- [Hats] Open 1 -->
+	<map note="13" instr="HH-open"/>     <!-- [Hats] Open 2 -->
+	<map note="14" instr="HH-open"/>     <!-- [Hats] Open 3 -->
+	<map note="15" instr="HH-open"/>     <!-- [Hats] Open 3 -->
+	<map note="16" instr="HH-open"/>     <!-- [Hats] Open 4 -->
+	<map note="17" instr="HH-open"/>     <!-- [Hats] Open 4 -->
+	<map note="18" instr="HH-closed"/>   <!-- [Hats] hatsTrig -->
+	<map note="19" instr="HH-closed"/>   <!-- [Hats] hatsTrig -->
+	<map note="20" instr="HH-closed"/>   <!-- [Hats] hatsTrig -->
+	<map note="21" instr="HH-pdl"/>      <!-- [Hats] Closed Pedal -->
+	<map note="22" instr="HH-closed"/>   <!-- [Hats] Closed -->
+	<map note="23" instr="HH-pdl"/>      <!-- [Hats] Open Pedal -->
+	<map note="24" instr="HH-open"/>     <!-- [Hats] Open 1 -->
+	<map note="25" instr="HH-open"/>     <!-- [Hats] Open 2 -->
+	<map note="26" instr="HH-open"/>     <!-- [Hats] Open 3 -->
+
+	<!-- Cymbals extended zone (notes 27-32) -->
+	<map note="27" instr="Crash2"/>      <!-- [China 2] Crash -->
+	<map note="28" instr="Crash1"/>      <!-- [Crash Ride 1] Punch -->
+	<map note="29" instr="Crash1"/>      <!-- [Spock] Crash -->
+	<map note="30" instr="Crash1"/>      <!-- [Splash 2] Crash -->
+	<map note="31" instr="Crash1"/>      <!-- [Splash 3] Crash -->
+	<map note="32" instr="Crash2"/>      <!-- [Crash Ride 2] Punch -->
+
+	<!-- Standard GM drum zone (notes 33-59) -->
+	<map note="33" instr="snare-Dyn-LH"/> <!-- [Snare] Left -->
+	<map note="34" instr="kick"/>         <!-- [Kick] Left -->
+	<map note="35" instr="kick"/>         <!-- [Kick] Right -->
+	<map note="36" instr="kick"/>         <!-- [Kick] Right -->
+	<map note="37" instr="snare-RmClk"/>  <!-- [Snare] Sidestick -->
+	<map note="38" instr="snare-Dyn-RH"/> <!-- [Snare] Right -->
+	<map note="39" instr="snare-Dyn-LH"/> <!-- [Snare] Ruff -->
+	<map note="40" instr="snare-Hrd-LH"/> <!-- [Snare] Rimshot -->
+	<map note="41" instr="Floor-RH"/>     <!-- [Floortom 2] Right -->
+	<map note="42" instr="HH-closed"/>    <!-- [Hats] Closed -->
+	<map note="43" instr="Floor-RH"/>     <!-- [Floortom 1] Right -->
+	<map note="44" instr="HH-pdl"/>       <!-- [Hats] Closed Pedal -->
+	<map note="45" instr="Tom-RH"/>       <!-- [Racktom 3] Right -->
+	<map note="46" instr="HH-open"/>      <!-- [Hats] Open 2 -->
+	<map note="47" instr="Tom-RH"/>       <!-- [Racktom 2] Right -->
+	<map note="48" instr="Tom-RH"/>       <!-- [Racktom 1] Right -->
+	<map note="49" instr="Crash1"/>       <!-- [Crash A] Crash -->
+	<map note="50" instr="Tom-RH"/>       <!-- [Racktom 1] Right -->
+	<map note="51" instr="ride"/>         <!-- [Ride] Ride -->
+	<map note="52" instr="Crash2"/>       <!-- [China 1] Punch -->
+	<map note="53" instr="ride-bell"/>    <!-- [Ride] Bell -->
+	<map note="54" instr="Crash1"/>       <!-- [Crash A] Mute -->
+	<map note="55" instr="Crash1"/>       <!-- [Splash 1] Crash -->
+	<map note="56" instr="ride-bell"/>    <!-- [Ride] Bell -->
+	<map note="57" instr="Crash2"/>       <!-- [Crash B] Crash -->
+	<map note="58" instr="Crash2"/>       <!-- [Crash B] Mute -->
+	<map note="59" instr="ride"/>         <!-- [Ride] Punch -->
+
+	<!-- Hi-hat upper zone (notes 60-65) -->
+	<map note="60" instr="HH-open"/>     <!-- [Hats] Open 4 -->
+	<map note="61" instr="HH-closed"/>   <!-- [Hats] Closed -->
+	<map note="62" instr="HH-closed"/>   <!-- [Hats] Closed -->
+	<map note="63" instr="HH-closed"/>   <!-- [Hats] Closed -->
+	<map note="64" instr="HH-closed"/>   <!-- [Hats] Closed -->
+	<map note="65" instr="HH-closed"/>   <!-- [Hats] Closed -->
+
+	<!-- Snare upper zone (notes 66-71) -->
+	<map note="66" instr="snare-Dyn-RH"/> <!-- [Snare] Right -->
+	<map note="68" instr="snare-Dyn-RH"/> <!-- [Snare] Right -->
+	<map note="69" instr="snare-Hrd-LH"/> <!-- [Snare] Flams -->
+	<map note="70" instr="snare-Dyn-RH"/> <!-- [Snare] Right -->
+	<map note="71" instr="snare-RmClk"/>  <!-- [Snare] Sidestick -->
+
+	<!-- Toms/Floor left hand and flams (notes 72-82) -->
+	<map note="72" instr="Floor-LH"/>    <!-- [Floortom 2] Left -->
+	<map note="73" instr="Floor-RH"/>    <!-- [Floortom 2] Flams -->
+	<map note="74" instr="Floor-LH"/>    <!-- [Floortom 1] Left -->
+	<map note="75" instr="Floor-RH"/>    <!-- [Floortom 1] Flams -->
+	<map note="76" instr="Crash2"/>      <!-- [Crash B] Crescendo -->
+	<map note="77" instr="Tom-LH"/>      <!-- [Racktom 3] Left -->
+	<map note="78" instr="Tom-RH"/>      <!-- [Racktom 3] Flams -->
+	<map note="79" instr="Tom-LH"/>      <!-- [Racktom 2] Left -->
+	<map note="80" instr="Tom-RH"/>      <!-- [Racktom 2] Flams -->
+	<map note="81" instr="Tom-LH"/>      <!-- [Racktom 1] Left -->
+	<map note="82" instr="Tom-RH"/>      <!-- [Racktom 1] Flams -->
+
+	<!-- Crash A mute / Crash Ride 1 zone (notes 83-92) -->
+	<map note="83" instr="Crash1"/>      <!-- [Crash A] Mute -->
+	<map note="84" instr="ride"/>        <!-- [Crash Ride 1] Ride -->
+	<map note="85" instr="ride-bell"/>   <!-- [Crash Ride 1] Bell -->
+	<map note="86" instr="Crash1"/>      <!-- [Crash Ride 1] Punch -->
+	<map note="87" instr="Crash1"/>      <!-- [Crash Ride 1] Crescendo -->
+	<map note="88" instr="ride"/>        <!-- [Crash Ride 1] Ride -->
+	<map note="89" instr="ride"/>        <!-- [Crash Ride 1] Ride -->
+	<map note="90" instr="ride-bell"/>   <!-- [Crash Ride 1] Bell -->
+	<map note="91" instr="Crash1"/>      <!-- [Crash Ride 1] Punch -->
+	<map note="92" instr="Crash1"/>      <!-- [Crash Ride 1] Crescendo -->
+
+	<!-- China / Crash A mutes (notes 93-95) -->
+	<map note="93" instr="Crash2"/>      <!-- [China 1] Ride -->
+	<map note="94" instr="Crash1"/>      <!-- [Crash A] Mute -->
+	<map note="95" instr="Crash1"/>      <!-- [Crash A] Mute -->
+
+	<!-- Ride extended zone (notes 96-104) -->
+	<map note="96" instr="ride"/>        <!-- [Ride] Ride -->
+	<map note="97" instr="ride-bell"/>   <!-- [Ride] Bell -->
+	<map note="98" instr="ride"/>        <!-- [Ride] Punch -->
+	<map note="99" instr="ride"/>        <!-- [Ride] Ride -->
+	<map note="100" instr="ride"/>       <!-- [Ride] Ride -->
+	<map note="101" instr="ride"/>       <!-- [Ride] Ride -->
+	<map note="102" instr="ride-bell"/>  <!-- [Ride] Bell -->
+	<map note="103" instr="ride"/>       <!-- [Ride] Punch -->
+	<map note="104" instr="ride"/>       <!-- [Ride] Ride -->
+
+	<!-- China / Crash B mutes (notes 105-107) -->
+	<map note="105" instr="Crash2"/>     <!-- [China 1] Ride -->
+	<map note="106" instr="Crash2"/>     <!-- [Crash B] Mute -->
+	<map note="107" instr="Crash2"/>     <!-- [Crash B] Mute -->
+
+	<!-- Crash Ride 2 zone (notes 108-116) -->
+	<map note="108" instr="ride"/>       <!-- [Crash Ride 2] Ride -->
+	<map note="109" instr="ride-bell"/>  <!-- [Crash Ride 2] Bell -->
+	<map note="110" instr="Crash2"/>     <!-- [Crash Ride 2] Punch -->
+	<map note="111" instr="ride"/>       <!-- [Crash Ride 2] Ride -->
+	<map note="112" instr="ride"/>       <!-- [Crash Ride 2] Ride -->
+	<map note="113" instr="ride"/>       <!-- [Crash Ride 2] Ride -->
+	<map note="114" instr="ride-bell"/>  <!-- [Crash Ride 2] Bell -->
+	<map note="115" instr="Crash2"/>     <!-- [Crash Ride 2] Punch -->
+	<map note="116" instr="ride"/>       <!-- [Crash Ride 2] Ride -->
+
+	<!-- China / Crash B mute (notes 117-118) -->
+	<map note="117" instr="Crash2"/>     <!-- [China 1] Ride -->
+	<map note="118" instr="Crash2"/>     <!-- [Crash B] Mute -->
+
+	<!-- Hi-hat high zone (notes 119-124) -->
+	<map note="119" instr="HH-closed"/> <!-- [Hats] Closed -->
+	<map note="120" instr="HH-open"/>   <!-- [Hats] Open 1 -->
+	<map note="121" instr="HH-open"/>   <!-- [Hats] Open 3 -->
+	<map note="122" instr="HH-closed"/> <!-- [Hats] Closed -->
+	<map note="123" instr="HH-open"/>   <!-- [Hats] Open 1 -->
+	<map note="124" instr="HH-open"/>   <!-- [Hats] Open 3 -->
+
+	<!-- Snare high zone (notes 125-127) -->
+	<map note="125" instr="snare-Dyn-RH"/> <!-- [Snare] Right -->
+	<map note="126" instr="snare-Hrd-LH"/> <!-- [Snare] Rimshot -->
+	<map note="127" instr="snare-RmClk"/>  <!-- [Snare] Sidestick -->
+</midimap>

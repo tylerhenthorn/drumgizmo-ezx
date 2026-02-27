@@ -1,0 +1,1 @@
+MIDI mappings for [DrumGizmo](https://drumgizmo.org) drum kits which should be compatible with your EZdrummer/Superior Drummer MIDI library. The mapping is based on EZX Drumkit From Hell, and each of the hits should land on at least some sort of drum. 
